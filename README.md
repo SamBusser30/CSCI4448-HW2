@@ -3,7 +3,7 @@
 
 ## Instructions to run code:
 - Download Shape.java and print_shape.java 
-- In folder containing the two file, run:
+- In folder containing the two files, run:
   - "javac print_shape.java"
   - "java print_shape"
   
